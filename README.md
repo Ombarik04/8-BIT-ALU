@@ -1,2 +1,2 @@
 # 8-BIT-ALU
-It contains word file of 8BIT ALU from design to testbench and waveform 
+It contains verilog codes, waveform, and outputs of 8BIT ALU. It is successfully done on EDA Playground platform.
